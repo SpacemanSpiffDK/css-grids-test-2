@@ -48,7 +48,6 @@ footer {
 	    grid-template-areas:
 			'head head head head'
 			'main main aside aside'
-			'main main aside aside'
 			'main main artfoot artfoot';
 	}
 }
@@ -58,7 +57,7 @@ footer {
 	    grid-template-areas:
 			'head head head head'
 			'main main main aside'
-			'main main main aside'
+			'main main main .'
 			'artfoot artfoot artfoot artfoot';
 	}
 }
